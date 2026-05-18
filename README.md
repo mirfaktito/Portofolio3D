@@ -22,7 +22,7 @@ Halaman portofolio modern yang dibangun dengan fokus pada pengalaman visual inte
 
 
 ## 📂 Struktur Proyek
-* `portfolio-mirfak-tree.jd-tailwind.html` - File utama (Struktur & Style)
+* `index.html` - File utama (Struktur & Style)
 * `Logo_Mirfak.png` - Aset Branding & Favicon
 * `README.md` - Dokumentasi proyek
 
